@@ -14,6 +14,7 @@ export class RolesComponent {
   currentVersion:number=18;
   isActive:boolean=false;
   currentDate:Date=new Date();
+  inputTypes:string="checkbox";
 
 
 }
